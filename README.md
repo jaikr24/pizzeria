@@ -4,9 +4,12 @@ This project was a part of <strong>Udemy Course</strong> for <strong>React</stro
 
 ### Full View
 
+![localhost_3000_](https://github.com/jaikr24/pizzeria/assets/87568222/37255afb-b3c9-4148-9320-8ee6cb530177)
+
 
 ### Browser View
 
+![image](https://github.com/jaikr24/pizzeria/assets/87568222/0275a1b5-2799-4447-ba86-ed91d4e7f2c4)
 
 
 ## Available Scripts
